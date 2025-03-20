@@ -1,6 +1,6 @@
 ### Spelers
 - Speler X = Jörn
-- Speler O = __
+- Speler O = Jille
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
