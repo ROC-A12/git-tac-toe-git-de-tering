@@ -1,5 +1,5 @@
 ### Spelers
-- Speler X = __
+- Speler X = Jörn
 - Speler O = __
 
 ### Bord (simple variant)
