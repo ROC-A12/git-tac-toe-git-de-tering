@@ -1,12 +1,11 @@
 ### Spelers
 - Speler X = Jörn
-- Speler O = Jille
-
+- Speler O = 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
 | A |🔲|🔲|🔲|
-| B |🔲|🔲|🔲|
+| B |🔲|X|🔲|
 | C |🔲|🔲|🔲|
 
 ### Logboek
